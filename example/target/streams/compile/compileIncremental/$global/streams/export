@@ -1,0 +1,1 @@
+scalac -deprecation -bootclasspath /Users/gaurav.s/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar -classpath /Users/gaurav.s/workspace/scala_folder/example/target/scala-2.13/classes -language:implicitConversions /Users/gaurav.s/workspace/scala_folder/example/src/main/scala/example/Lists.scala
